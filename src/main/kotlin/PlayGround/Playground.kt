@@ -1,5 +1,5 @@
 package PlayGround
 
 fun main() {
-    print("Hello Kotlin")
+    print("Hello World")
 }
